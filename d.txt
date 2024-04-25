@@ -1,0 +1,4 @@
+ECHO is on.
+"leg day"
+hi
+bye
